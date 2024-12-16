@@ -1,4 +1,4 @@
-# Opanuj Frontend: AI Edition - Frontend Bootstrap
+# Opanuj Frontend: Aplikacjia Frontendowa na produkcji
 
 ![](./_resources/img/header.png)
 
